@@ -1,0 +1,12 @@
+
+tensorflow==2.10.0
+opencv-python
+mediapipe
+protobuf
+cvzone
+pyttsx3
+pillow
+googletrans==4.0.0rc1
+mtranslate
+pyenchant
+pygame
